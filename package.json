@@ -1,5 +1,5 @@
 {
-  "name": "node-app-http-docker",
+  "name": "app-http-docker",
   "version": "0.0.2",
   "description": "Dev Docker instance / image running a NodeJS server.",
   "main": "app.js",
@@ -20,6 +20,6 @@
     "8080"
   ],
   "author": "Millan Kaul (eaccmk)",
-  "homepage":"https://github.com/eaccmk/node-app-http-docker#readme",
+  "homepage": "https://github.com/eaccmk/node-app-http-docker#readme",
   "license": "ISC"
 }
