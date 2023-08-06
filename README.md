@@ -1,2 +1,2 @@
 # SimpleKubApi
-A simple Rest API for kubernetes
+A simple Rest API for Kubernetes
